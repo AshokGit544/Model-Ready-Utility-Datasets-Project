@@ -31,3 +31,15 @@ The model achieved a Mean Absolute Error of 7.41, which means the predicted dail
 This shows the model is able to capture usage patterns reasonably well using features like recent usage, operational data, and weather conditions.
 
 The result confirms that the dataset is suitable for forecasting and can be further improved with tuning and more data.
+
+
+📊 Feature Importance Analysis
+
+This analysis shows which features have the most impact on predicting daily energy usage.
+
+The model identified recent usage patterns as the most important factors.
+Features like 7 day average usage and previous day usage have the highest influence, which means past consumption behavior plays a key role in forecasting future usage.
+
+Weather related features such as temperature and wind speed also contribute, showing that external conditions affect energy consumption.
+
+Overall, this helps explain how the model makes predictions and highlights the key drivers behind energy usage. It also provides useful direction for improving forecasting by focusing on the most impactful features.
