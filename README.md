@@ -22,3 +22,12 @@ The goal of this project is to show how integrated and feature-ready datasets su
 - NumPy
 - Scikit-learn
 - Google Colab
+
+
+📈 Forecasting Model Performance:
+
+The model achieved a Mean Absolute Error of 7.41, which means the predicted daily energy usage is on average off by about 7.41 units.
+
+This shows the model is able to capture usage patterns reasonably well using features like recent usage, operational data, and weather conditions.
+
+The result confirms that the dataset is suitable for forecasting and can be further improved with tuning and more data.
